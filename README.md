@@ -58,3 +58,7 @@ Development Environment: ST-IDE (Eclipse-based C++ IDE)
 测试仪：Speedcury ST2500（250 Mbps 数字/混合信号 ATE）
 
 开发环境：ST-IDE（基于 Eclipse 的 C++ IDE）
+
+------------------------------------------------------------------------------------------------
+
+ADC0832CCN
