@@ -1,18 +1,25 @@
 # IC-Testing-and-Characterization
 Hands-on projects on IC testing and characterization using Speedcury ST2500 ATE system. Focuses on mixed-signal ICs (ADC/OPA/PMIC) and test automation.
 This repository documents my hands-on experience and data analysis on the Speedcury ST2500 ATE system, focusing on mixed-signal IC testing.
+
 Project List
+
 1.ADC – ADC0832CCN 
 Focus: SPI-like communication protocol, mixed-signal synchronization, reference voltage error analysis.
 Details: Folder pending creation.
+
 2.OPA – LM358P 
 Focus: Open-loop and closed-loop gain measurement, coordination between BPMU and DGT, noise floor characterization.
+
 3.PMIC – TPS73625 
 Focus: Line regulation (LNR), power supply rejection ratio (PSRR).
+
 4.MCU – HK32F031 
 Focus: GPIO functional testing, TMU-based frequency capture, automated test flow implementation.
+
 5.EEPROM – HK24C02
 Focus: I2C protocol implementation, CBIT-controlled relay switching for pull-up resistor configuration.
+
 Test Environment
 Tester: Speedcury ST2500 (250 Mbps digital/mixed-signal ATE)
 Development Environment: ST-IDE (Eclipse-based C++ IDE)
