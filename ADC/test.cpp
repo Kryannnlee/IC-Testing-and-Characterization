@@ -1,3 +1,12 @@
+/**
+ * Project: ADC0832 Functional and Performance Characterization
+ * Platform: Speedcury ST2500 (250Mbps ATE)
+ * Author: [Your Name]
+ * Date: 12-17-2025
+ * Description: Implemented static (INL/DNL) and dynamic (SNR/THD/ENOB) 
+ * test methodologies using AWG and DSIO capture.
+ */
+
 #include "interface.h"
 #include <iostream>
 #include <string>
